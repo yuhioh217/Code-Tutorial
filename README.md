@@ -31,5 +31,4 @@ Create by KE Jiang 20180327
 
 Authors
 -
-Licensed under the MIT License
 Copyright(c) 2017 KE Jiang<<yuihoh217@gmail.com>>
