@@ -3,7 +3,8 @@
 ## 基本宣告
 最基本的C程式會是如下  
 ```c
-int main(void){
+int main(void)
+{
 	return 0;
 }
 ```
