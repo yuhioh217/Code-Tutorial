@@ -26,9 +26,10 @@ Create by KE Jiang 20180327
 ## 任意門
 | [回首頁](https://github.com/yuhioh217/Code%20tutorial) | [下一章：C 入門教學](https://github.com/yuhioh217/Code-Tutorial/tree/master/C%20tutorial/Chapter1/Chapter1.md)
 
--
-Licensed under the MIT License
+
+
 
 Authors
 -
+Licensed under the MIT License
 Copyright(c) 2017 KE Jiang<<yuihoh217@gmail.com>>
