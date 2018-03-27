@@ -1,7 +1,5 @@
 # C/C++/Java/python/NodeJS tutorial
 
-=================
-Create by KE Jiang 20180327
 
 ## 前言
 程式語言中最基礎且最為直觀的就是C語言，所以如果是剛開始學習的新手建議先從C語言入門，C++則是在C語言，再加上物件導向而成的進階語法，python、JAVA、NodeJS在C/C++的觀念累積起來後會再有進一步的教學。
