@@ -7,7 +7,6 @@
 
 
 ## Features
--
 
 * Simple concept for beginner
 * Start from C/C++
