@@ -1,4 +1,4 @@
-#C/C++/Java/python/NodeJS tutorial
+# C/C++/Java/python/NodeJS tutorial
 
 =================
 Create by KE Jiang 20180327
@@ -23,8 +23,8 @@ Create by KE Jiang 20180327
 	* 等環境較為熟悉後推薦使用linux machine去處理編寫的語言
 
 
-##任意門
-| [回首頁](https://github.com/yuhioh217/Code tutorial) | [下一章：C 入門教學](https://github.com/yuhioh217/Code tutorial/C tutorial/Chapter1/Chapter1.md)
+## 任意門
+| [回首頁](https://github.com/yuhioh217/Code%20tutorial) | [下一章：C 入門教學](https://github.com/yuhioh217/Code-Tutorial/tree/master/C%20tutorial/Chapter1/Chapter1.md)
 
 -
 Licensed under the MIT License
