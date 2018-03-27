@@ -15,7 +15,7 @@
 
 
 ## 事前準備
-* [C](https://github.com/yuhioh217/Code tutorial/C tutorial/)
+* [C](https://github.com/yuhioh217/Code%20tutorial/C%20tutorial/)
     * IDE推薦: Eclipse、code blocks、CodeLite、Visual Studio C++、linux machine
 	* Beginner適合使用編譯環境較齊全的'Eclipse','CodeLite','Visual Studio C++'
 	* 等環境較為熟悉後推薦使用linux machine去處理編寫的語言
