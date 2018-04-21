@@ -66,7 +66,7 @@ int main(void)
 
 ```
 
-測試代碼: [chapter1-2.c](https://github.com/yuhioh217/Code-Tutorial/tree/master/C%20tutorial/Chapter1/chapter1-3.c)
+測試代碼: [chapter1-3.c](https://github.com/yuhioh217/Code-Tutorial/tree/master/C%20tutorial/Chapter1/chapter1-3.c)
 
 
 
