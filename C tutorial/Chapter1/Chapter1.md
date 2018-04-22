@@ -32,7 +32,8 @@ C語言本身提供了一些最基本的數值儲存型態
 
 ## 輸出 output (printf)
 
-從電腦發出訊息的功能稱做為`output`, C語言的stdio.h中有提供最簡單的printf輸出函式  
+
+將訊息輸出至主控台，稱之為標準輸出`（Stand output）`, C語言的stdio.h中有提供最簡單的printf輸出函式  
 
 ```
 #include<stdio.h>
@@ -65,6 +66,10 @@ int main(void)
 }
 
 ```
+
+指定整數、浮點數、字元等進行顯示，則要配合格式指定字（format specifier）
+![資料型態 table](../../image/chapter1-3_table1.PNG "輸出型態 table")
+
 
 測試代碼: [chapter1-3.c](https://github.com/yuhioh217/Code-Tutorial/tree/master/C%20tutorial/Chapter1/chapter1-3.c)
 
