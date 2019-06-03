@@ -10,7 +10,7 @@ def selenium_test():
   path = './chromedriver'
   webDriver = webdriver.Chrome(path)
 
-  # 設定你想要操作的網頁的網址
+# 設定你想要操作的網頁的網址
   test_url = 'http://google.com.tw'
   webDriver.get(test_url)
 
@@ -20,9 +20,6 @@ def selenium_test():
   # find_element_by_tag_name()
   # find_element_by_partial_link_text()
   # find_element_by_css_selector()
-  
-
-
 
 if __name__ == '__main__':
   # call function

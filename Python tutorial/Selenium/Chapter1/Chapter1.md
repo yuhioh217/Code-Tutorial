@@ -23,9 +23,19 @@ pip3 install selenium
 
 Step1. 創建一個function，名稱為selenium_test
 
+![Function](../../../image/python-selenium1.PNG)
+
 Step2. 使用Selenium模組需要配置瀏覽器套件
 
+![瀏覽器配置](../../../image/python-selenium2.PNG)
+
 Step3. 設定操作的網址
+
+![網址操作設定](../../../image/python-selenium3.PNG)
+
+Final Step. Call Function in main entry point
+
+![網址操作設定](../../../image/python-selenium-main.PNG)
 
 
 
