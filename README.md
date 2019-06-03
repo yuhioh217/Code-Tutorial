@@ -16,12 +16,18 @@
 ## 事前準備
 * [C](https://github.com/yuhioh217/Code-Tutorial/C%20tutorial/)
     * IDE推薦: Eclipse、code blocks、CodeLite、Visual Studio C++、linux machine
-	* Beginner適合使用編譯環境較齊全的'Eclipse','CodeLite','Visual Studio C++'
-	* 等環境較為熟悉後推薦使用linux machine去處理編寫的語言
+    * Beginner適合使用編譯環境較齊全的'Eclipse','CodeLite','Visual Studio C++'
+    * 等環境較為熟悉後推薦使用linux machine去處理編寫的語言
+* [Python](https://github.com/yuhioh217/Code-Tutorial/blob/master/Python%20tutorial)
+    * IDE推薦: VScode、sublime Text、nodepad++
+    * 編譯方式: 適合直接使用command Line不透過IDE去編譯，Log直接編寫於python檔案內
+    * 透過直接使用command Line的操作易於熟悉編譯整體流程操作，IDE編譯屬於整合好方便操作
 
 
 ## 任意門
-| [回首頁](https://github.com/yuhioh217/Code-Tutorial) | [下一章：C 入門教學](https://github.com/yuhioh217/Code-Tutorial/tree/master/C%20tutorial/Chapter1/Chapter1.md)
+| [回首頁](https://github.com/yuhioh217/Code-Tutorial) | [C 入門教學](https://github.com/yuhioh217/Code-Tutorial/tree/master/C%20tutorial/Chapter1/Chapter1.md)
+
+| [回首頁](https://github.com/yuhioh217/Code-Tutorial) | [Python Selenuim](https://github.com/yuhioh217/Code-Tutorial/blob/master/Python%20tutorial/Selenium/Chapter1/Chapter1.md)
 
 
 
