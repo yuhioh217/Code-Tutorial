@@ -14,6 +14,7 @@
 
 ```python
 pip install selenium 
+或
 pip3 install selenium
 ```
 
