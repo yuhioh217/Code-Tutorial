@@ -28,7 +28,9 @@ Node.js 是 Ryan Dahl 基於 Google 的 V8 引擎於 2009 年釋出的一個 Jav
 
   ```
   Node.js uses a single threaded model with event looping. 
-  Event mechanism helps the server to respond in a non-blocking way and makes the server highly scalable as opposed to traditional servers like Apache which create limited threads to handle requests.
+  Event mechanism helps the server to respond in a non-blocking way and makes
+  the server highly scalable as opposed to traditional servers like Apache which
+  create limited threads to handle requests.
   ```
 
 * ### No Buffering
