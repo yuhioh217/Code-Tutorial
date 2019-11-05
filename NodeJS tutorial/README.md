@@ -11,25 +11,31 @@ Node.js 是 Ryan Dahl 基於 Google 的 V8 引擎於 2009 年釋出的一個 Jav
 * ### It is asynchronous and event Driven
 
   ```
-  All APIs of Node.js library are asynchronous, that is, non-blocking. It essentially means a Node.js based server never waits for an API to return data. The server moves to the next API after calling it and a notification mechanism of Events of Node.js helps the server to get a response from the previous API call.
+  All APIs of Node.js library are asynchronous, that is, non-blocking. 
+  It essentially means a Node.js based server never waits for an API to return data. 
+  The server moves to the next API after calling it and a notificationmechanism of 
+  Events of Node.js helps the server to get a response from the previous API call.
   ```
 
 * ### Super Fast 
 
   ```
-  Being built on Google Chrome’s V8 JavaScript Engine, Node.js is super efficient and quick in code execution.
+  Being built on Google Chrome’s V8 JavaScript Engine, Node.js is super efficient 
+  and quick in code execution.
   ```
 
 * ### Single Threaded but Highly Scalable
 
   ```
-  Node.js uses a single threaded model with event looping. Event mechanism helps the server to respond in a non-blocking way and makes the server highly scalable as opposed to traditional servers like Apache which create limited threads to handle requests.
+  Node.js uses a single threaded model with event looping. 
+  Event mechanism helps the server to respond in a non-blocking way and makes the server highly scalable as opposed to traditional servers like Apache which create limited threads to handle requests.
   ```
 
 * ### No Buffering
 
   ```
-  Node.js applications never buffer any data. These applications simply output the data in chunks.
+  Node.js applications never buffer any data. These applications simply output the 
+  data in chunks.
   ```
 
   
